@@ -1,0 +1,19 @@
+---
+title: "check-cat-names"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{check-cat-names}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(cabinet)
+```
