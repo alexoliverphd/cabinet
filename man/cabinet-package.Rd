@@ -8,6 +8,14 @@
 \description{
 A package created for a Cabinet Office Coffee & Coding session that doesn't do anything useful in particular.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/alexoliverphd/cabinet}
+  \item Report bugs at \url{https://github.com/alexoliverphd/cabinet/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Matt Dray \email{matthew.dray@digital.cabinet-office.gov.uk} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
 
